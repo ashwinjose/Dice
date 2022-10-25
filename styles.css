@@ -1,0 +1,44 @@
+.container {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  margin: 5% 3% 0;
+  text-align: center;
+  display: inline-block;
+
+}
+
+.button {
+  margin: auto;
+  width: 17%;
+  height: 17%;
+}
+
+body {
+  background-color: #16b005;
+}
+
+h1 {
+  margin: 50px 50px 0;
+  text-shadow: 5px 0 #434343;
+  font-size: 5rem;
+  color: #FFFFFF;
+}
+
+p {
+  font-size: 2rem;
+  color: #ffffff;
+}
+
+img {
+  width: 100%;
+}
+
+footer {
+  color: #EEEEEE;
+  text-align: center;
+
+}
