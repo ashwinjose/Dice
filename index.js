@@ -19,10 +19,10 @@ document.querySelectorAll("img")[1].setAttribute("src", randomImageSource2);
 
 //If player 1 wins
 if (randomNumber1 > randomNumber2) {
-  document.querySelector("h1").innerHTML = "Player 1 Won the Game";
+  document.querySelector("h1").innerHTML = "Winner Player 1";
 }
 else if (randomNumber2 > randomNumber1) {
-  document.querySelector("h1").innerHTML = "Player 2 Won the Game";
+  document.querySelector("h1").innerHTML = "Winner Player 2";
 }
 else {
   document.querySelector("h1").innerHTML = " It's a Draw";
